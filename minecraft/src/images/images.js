@@ -9,7 +9,7 @@ const images = {
 	grassImg,
 	glassImg,
 	woodImg,
-	logImg,
+	logImg
 }
 
 export default images
