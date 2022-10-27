@@ -1,4 +1,4 @@
-import { NearestFilter, TextureLoader, RepeatWrapping } from 'three'
+import { NearestFilter, TextureLoader, RepeatWrapping } from 'three';
 
 import {
 	dirtImg,
@@ -31,4 +31,4 @@ export {
 	glassTexture,
 	woodTexture,
 	groundTexture
-}
+};
